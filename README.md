@@ -1,5 +1,5 @@
 # Python-moduel-Development
-Developing a .cpp module to use in python scipts
+This repo helps you in develop a module using C/C++ to use it in any python scripts
 ## Pytohn-Extension Programming
 Any code that you write using any compiled language like C, C++, or Java can be integrated or imported into another Python script. This code is considered as an "extension."
 
